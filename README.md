@@ -109,4 +109,5 @@ Provides backend control to manage service data.
 
 Darshini S.
 Postgraduate in Computer Science | Entry-Level Tech Enthusiast | Eager to Learn & Build
-LinkedIn • Email • GitHub
+
+• LinkedIn • Email • GitHub
