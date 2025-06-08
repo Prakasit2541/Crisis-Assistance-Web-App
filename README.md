@@ -61,7 +61,7 @@ This application serves as a digital support system during crisis scenarios by u
 | Backend       | Java (Servlets, JSP)         |
 | Database      | MySQL                        |
 | API           | Google Maps API              |
-| Server        | Apache Tomcat (Optional)     |
+| Server        | Apache Tomcat                |
 
 ---
 
